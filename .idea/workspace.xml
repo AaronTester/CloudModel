@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05a10154-b9d6-4ed6-a99e-0d0abe80eb48" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Maven" />
+        <option name="userSettingsFile" value="E:\Maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mBR0SNf7LtyCYrmEevSiZ9O1cq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloudbasic-eureka-7003/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4977001" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.aaron" />
+      <recent name="org.aaron.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GitHub\CloudModel\cloudbasic-eureka-7003\src\main\resources" />
+      <recent name="E:\GitHub\CloudModel\cloudbasic-eureka-7002\src\main\resources" />
+      <recent name="E:\GitHub\CloudModel\cloudbasic-consumer-80\src\main\resources" />
+      <recent name="E:\GitHub\CloudModel\cloudbasic-service-8001\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ZuulService9999">
+    <configuration name="CloudbasicConsumer80Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudbasic-consumer-80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aaron.CloudbasicConsumer80Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudbasicConsumerFeign80Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudbasic-consumer-feign-80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aaron.CloudbasicConsumerFeign80Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudbasicConsumerFeignHystrix80Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudbasic-consumer-feign-hystrix-80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aaron.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aaron.CloudbasicConsumerFeignHystrix80Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudbasicService8001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudbasic-service-8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.aaron.CloudbasicService8001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudbasicService8002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudbasic-service-8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.aaron.CloudbasicService8002Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudbasicService8003Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudbasic-service-8003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.aaron.CloudbasicService8003Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudbasicServiceHystrix8001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudbasic-service-hystrix-8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.aaron.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.aaron.CloudbasicServiceHystrix8001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudbasic-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.aaron.ConfigServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerHystrixDashBoard9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudbasic-consumer-hystrix-dashboard-9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.aaron.ConsumerHystrixDashBoard9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudbasic-eureka-7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.aaron.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.aaron.EurekaServer7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudbasic-eureka-7002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.aaron.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.aaron.EurekaServer7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulService9999" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudbasic-zuul-9999" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.aaron.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.aaron.ZuulService9999" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CloudbasicConsumer80Application" />
+      <item itemvalue="Spring Boot.ConfigServer" />
+      <item itemvalue="Spring Boot.CloudbasicService8001Application" />
+      <item itemvalue="Spring Boot.CloudbasicService8002Application" />
+      <item itemvalue="Spring Boot.CloudbasicConsumerFeign80Application" />
+      <item itemvalue="Spring Boot.CloudbasicService8003Application" />
+      <item itemvalue="Spring Boot.ConsumerHystrixDashBoard9001" />
+      <item itemvalue="Spring Boot.EurekaServer7001" />
+      <item itemvalue="Spring Boot.EurekaServer7002" />
+      <item itemvalue="Spring Boot.CloudbasicServiceHystrix8001Application" />
+      <item itemvalue="Spring Boot.CloudbasicConsumerFeignHystrix80Application" />
+      <item itemvalue="Spring Boot.ZuulService9999" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaServer7002" />
+        <item itemvalue="Spring Boot.EurekaServer7001" />
+        <item itemvalue="Spring Boot.ZuulService9999" />
+        <item itemvalue="Spring Boot.CloudbasicConsumerFeignHystrix80Application" />
+        <item itemvalue="Spring Boot.CloudbasicServiceHystrix8001Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05a10154-b9d6-4ed6-a99e-0d0abe80eb48" name="Default Changelist" comment="" />
+      <created>1608964775228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608964775228</updated>
+      <workItem from="1608964781657" duration="374000" />
+      <workItem from="1608965213334" duration="10104000" />
+      <workItem from="1608993048792" duration="4434000" />
+      <workItem from="1608997578164" duration="6996000" />
+      <workItem from="1609061163094" duration="13391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="78" key="#Inspections" timestamp="1608965231317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="391" y="78" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1608965231317" />
+    <state x="121" y="0" key="#Project_Structure" timestamp="1609072434814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1609072434814" />
+    <state x="0" y="61" width="1536" height="701" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608993159818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="61" width="1536" height="701" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1608993159818" />
+    <state x="347" y="203" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608986408660">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="203" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1608986408660" />
+    <state x="517" y="60" key="#com.intellij.ide.util.MemberChooser" timestamp="1609066602663">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="517" y="60" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1609066602663" />
+    <state x="399" y="94" key="FileChooserDialogImpl" timestamp="1608992923687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="399" y="94" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608992923687" />
+    <state width="980" height="518" key="GridCell.Tab.0.bottom" timestamp="1609208847466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="980" height="518" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609208847466" />
+    <state width="980" height="518" key="GridCell.Tab.0.center" timestamp="1609208847466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="980" height="518" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609208847466" />
+    <state width="980" height="518" key="GridCell.Tab.0.left" timestamp="1609208847465">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="980" height="518" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609208847465" />
+    <state width="980" height="518" key="GridCell.Tab.0.right" timestamp="1609208847466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="980" height="518" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609208847466" />
+    <state width="980" height="518" key="GridCell.Tab.1.bottom" timestamp="1609208847466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="980" height="518" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609208847466" />
+    <state width="980" height="518" key="GridCell.Tab.1.center" timestamp="1609208847466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="980" height="518" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1609208847466" />
+    <state width="980" height="518" key="GridCell.Tab.1.left" timestamp="1609208847466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="980" height="518" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1609208847466" />
+    <state width="980" height="518" key="GridCell.Tab.1.right" timestamp="1609208847466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="980" height="518" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1609208847466" />
+    <state x="180" y="86" key="IDE.errors.dialog" timestamp="1609200722174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="180" y="86" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1609200722174" />
+    <state x="178" y="0" key="SettingsEditor" timestamp="1609201059529">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609201059529" />
+    <state x="383" y="105" width="769" height="614" key="find.popup" timestamp="1609067185593">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="383" y="105" width="769" height="614" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1609067185593" />
+    <state x="0" y="0" key="new project wizard" timestamp="1609201576053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1609201576053" />
+    <state x="341" y="183" key="run.anything.popup" timestamp="1608985553266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1608985553266" />
+    <state x="347" y="0" width="840" height="822" key="search.everywhere.popup" timestamp="1609072910487">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="0" width="840" height="822" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1609072910487" />
+    <state x="372" y="32" key="spring file set editor" timestamp="1608992925410">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="32" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1608992925410" />
+  </component>
+</project>

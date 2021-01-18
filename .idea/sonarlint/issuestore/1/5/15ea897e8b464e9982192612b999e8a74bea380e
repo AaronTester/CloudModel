@@ -1,0 +1,8 @@
+
+C
+java:S1170"!Make this final field static too.(È¶ñşÿÿÿÿ8§æøé.
+l
+java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰Ø8ÜÊ¦ùé.
+D
+java:S1905"'Remove this unnecessary cast to "List".(ø¹¾ğ8†äùé.
+t	java:S116"SRename this field "REST_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¶ñşÿÿÿÿ8§æøé.

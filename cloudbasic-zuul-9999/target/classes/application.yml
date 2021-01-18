@@ -1,0 +1,17 @@
+server:
+  port: 9999  #端口号
+spring:
+  application:
+    name: service-zuul  #服务注册中心测试名
+zuul:
+  #ignored-services: microservicecloud-dept
+  ignored-services: "*"
+  routes:
+    api-a:    #可以随便写，在zuul上面唯一即可；当这里的值=service-id时，service-id可以不写。
+      path: /mservice/**
+      serviceId: cloudbasic-service  #如果是/ribbon/**路径下的请求，则跳转到service-ribbon
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/

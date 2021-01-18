@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloudbasic-zuul-9999" />
+        <module name="cloudbasic-config-server" />
+        <module name="cloudbasic-eureka-7003" />
+        <module name="cloudbasic-consumer-feign-hystrix-80" />
+        <module name="cloudbasic-consumer-hystrix-dashboard-9001" />
+        <module name="cloudbasic-consumer-80" />
+        <module name="cloudbasic-service-8003" />
+        <module name="cloudbasic-service-8002" />
+        <module name="cloudbasic-service-8001" />
+        <module name="cloudbasic-config-client" />
+        <module name="cloudbasic-consumer-feign-80" />
+        <module name="cloudbasic-api" />
+        <module name="cloudbasic-service-hystrix-8001" />
+        <module name="cloudbasic-eureka-7002" />
+        <module name="cloudbasic-eureka-7001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloudbasic-consumer-80" options="" />
+      <module name="cloudbasic-service-8001" options="" />
+    </option>
+  </component>
+</project>
